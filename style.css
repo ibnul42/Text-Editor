@@ -26,3 +26,7 @@
 .underline{
     text-decoration: underline;
 }
+
+.text-area{
+    width: 100%;
+}
